@@ -6,6 +6,7 @@
 
 .project {
      margin-left: 20px
+     /*border: 10px dotted DarkCyan;*/
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
@@ -14,6 +15,10 @@
 	color: #CC00AA;
 }
 
+/*#project1 {
+     width: 200px
+}*/
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
@@ -21,6 +26,10 @@ body {
      border: 10px groove DarkCyan;
      padding: 20px;
      background-color: LightBlue
+}
+
+img #project4 {
+     width: 200px
 }
 
 .jumbotron {
